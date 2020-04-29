@@ -16,8 +16,9 @@
    
  }
 
- testing(names); */
+ testing(names); 
 
+ // replacing spaces in a string with a special character '!'
  let myText = "I am s string";
  for (let i=0; i<=myText.length; i++){
 
@@ -25,3 +26,14 @@
  
 console.log(newText);
  }
+
+ 
+
+//using join function to join the elements of an array into a string.
+
+
+ let myArr = ["I ", "am", "favour", "by", "God"]; 
+ myString = myArr.join('');
+ console.log(myString);
+
+*/
