@@ -37,3 +37,7 @@ console.log(newText);
  console.log(myString);
 
 */
+
+//using random function to generate random number to a whole number multiply by 10...
+//let myNumber = Math.random();
+// console.log(myNumber * 100);
